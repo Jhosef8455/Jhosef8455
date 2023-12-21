@@ -8,17 +8,18 @@
 ### My current stack is:
 
 -HTML <br>
--CSS/Bootstrap 5
--Javascript 
--C++
+-CSS/Bootstrap 5 <br>
+-Javascript <br>
+-C++ <br>
 
 ### Currently learning: 
 
--Python
--Java
--C#
--ReactJS
--Tailwind CSS
+-Python <br>
+-Java <br>
+-C# <br>
+-ReactJS <br>
+-Tailwind CSS <br>
+<button>LMAO</button>
 
 
 
